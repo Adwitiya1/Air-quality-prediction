@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/servlet-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/jasper.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/jsp-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/el-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/annotations-api.jar"/>
+	<classpathentry kind="src" path="WEB-INF/src"/>
+	<classpathentry kind="src" output="work" path="work"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/cos-2017.5.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/jcommon-1.0.16.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/jfreechart-1.0.9.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/logback.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/multipartrequest.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/opencsv-4.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/org.apache.tika.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/pentaho.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/slf4j.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/swexcude.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/swingx-0.9.4.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/testng-6.0.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/weka-dev-3.7.10.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/mysql-connector-java.jar"/>
+	<classpathentry kind="output" path="WEB-INF/classes"/>
+</classpath>
